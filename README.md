@@ -37,7 +37,7 @@
 # Cutting Google out of your life
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
-
+# Please ignore the little boxes, they will get replaced soon (Aka WIP)
 ![Updated](https://img.shields.io/static/v1?label=updated&message=November%2022,%202023&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
